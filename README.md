@@ -1,0 +1,8 @@
+#Saliency_experience
+#serquest器端环境配置ubuntu16.04上面
+要点的几个点包括可以创建虚拟环境将每一个项目隔离开
+pyrotch tensorflow都可以在conda里面创建 
+文档包括具体的命令
+附加工具箱数字jupyter可以附加安装
+OpenCV的中的记得安装哦
+每个用户新建自己的环境记得不要冲突哦
